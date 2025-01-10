@@ -4,7 +4,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: osTicket Prereq](https://youtu.be/dEd_WTaj7N0)
+- ### [YouTube: osTicket - Post-Install Configuration](https://youtu.be/dEd_WTaj7N0)
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
